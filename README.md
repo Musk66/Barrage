@@ -10,3 +10,4 @@
 
 弹幕的速度  v(速度) = s(要移动的距离) / t(时间)
 
+![image](https://github.com/Musk66/Barrage/blob/master/barrage.png)
